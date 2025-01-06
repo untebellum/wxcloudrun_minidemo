@@ -1,7 +1,7 @@
 {
-  "host": "",
-  "user": "",
-  "password": "",
-  "port": "",
-  "database": ""
+  "host": "10.47.111.155",
+  "user": "root",
+  "password": "Overlord@123",
+  "port": "3306",
+  "database": "online"
 }
